@@ -7,3 +7,26 @@ body {
 header {
   font-weight: bold;
 }
+.position {
+  float: right;
+  width: 100%;
+}
+.heading {
+  text-align: center;
+}
+button {
+  background-color: orange;
+}
+.measurements {
+  width: 100%;
+}
+
+.length {
+  width: 100%;
+}
+iframe {
+  margin-left: 30%;
+}
+footer {
+  float: right;
+}
