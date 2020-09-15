@@ -1,0 +1,9 @@
+body {
+  width: 1000px;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header {
+  font-weight: bold;
+}
